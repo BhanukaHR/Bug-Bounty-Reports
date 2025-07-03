@@ -5,6 +5,8 @@ This repository contains a collection of **10 web application vulnerability repo
 These reports demonstrate hands-on experience in identifying, exploiting, and documenting common web security flaws, using a manual testing approach and tools like **Burp Suite**, **browser dev tools**, and **custom scripts**.
 
 Peer-reviewed score: 78/100
+
+
 ---
 
 ## 📄 Report List
