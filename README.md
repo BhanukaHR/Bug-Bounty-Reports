@@ -3,7 +3,7 @@
 This repository contains a collection of **10 web application vulnerability reports** I submitted as part of my Information Security training and academic assignment. Each report documents a real-world vulnerability scenario, aligned with the **OWASP Top 10** and **CWE** standards.
 
 These reports demonstrate hands-on experience in identifying, exploiting, and documenting common web security flaws, using a manual testing approach and tools like **Burp Suite**, **browser dev tools**, and **custom scripts**.
-
+Peer-reviewed score: 78/100
 ---
 
 ## 📄 Report List
